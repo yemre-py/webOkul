@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+nav,footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+    display: flex;
+}
+
+#logo {
+    height: 8vh;
+    width: 8vh;
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#gh-logo-a:visited {
+    color: initial;
+}
+
+
+
+#gh-logo-a>i {
+    font-size: 8vh;
+}
+
+#user-logo-a>img {
+    width: 8vh;
+    height: 8vh;
+    border-radius: 50%;
+}
+
+footer {
+}
