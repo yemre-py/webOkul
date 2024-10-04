@@ -1,0 +1,1 @@
+[gidelim](https://web-okul.vercel.app/)
